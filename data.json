@@ -1,5 +1,45 @@
 [
   {
+    "aid": 115993259018759,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 32
+        },
+        {
+          "minutes": 1,
+          "seconds": 6
+        },
+        {
+          "minutes": 1,
+          "seconds": 38
+        },
+        {
+          "minutes": 2,
+          "seconds": 14
+        },
+        {
+          "minutes": 2,
+          "seconds": 55
+        }
+      ],
+      "introduces": [
+        "Beautiful Mermaid ｜ 把 Mermaid 图直接变好看",
+        "Zedis ｜ GPUI 加持的 Redis 客户端",
+        "Sherlock ｜ LLM API 追踪工具",
+        "QMD ｜ 本地知识库搜索新选择",
+        "Convex ｜ 实时同步的全栈后端",
+        "Flameshot ｜ 截图界的瑞士军刀"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115955829049250,
     "hn_items": {
       "times": [

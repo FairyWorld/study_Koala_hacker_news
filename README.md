@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av115993259018759)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av115993259018759?t=9)|Beautiful Mermaid ｜ 把 Mermaid 图直接变好看| |
+|[00:32](https://www.bilibili.com/video/av115993259018759?t=32)|Zedis ｜ GPUI 加持的 Redis 客户端| |
+|[01:06](https://www.bilibili.com/video/av115993259018759?t=66)|Sherlock ｜ LLM API 追踪工具| |
+|[01:38](https://www.bilibili.com/video/av115993259018759?t=98)|QMD ｜ 本地知识库搜索新选择| |
+|[02:14](https://www.bilibili.com/video/av115993259018759?t=134)|Convex ｜ 实时同步的全栈后端| |
+|[02:55](https://www.bilibili.com/video/av115993259018759?t=175)|Flameshot ｜ 截图界的瑞士军刀| |
+
 ## [视频链接](https://www.bilibili.com/video/av115955829049250)
 
 |时间轴|简介|链接|
