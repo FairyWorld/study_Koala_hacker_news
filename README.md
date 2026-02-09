@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116038708496598)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116038708496598?t=9)|NanoClaw ｜ 轻量化 AI 助手| |
+|[00:44](https://www.bilibili.com/video/av116038708496598?t=44)|Shannon ｜ 全自动漏洞发现探索| |
+|[01:28](https://www.bilibili.com/video/av116038708496598?t=88)|Voxtral Transcribe 2 ｜ 语音识别新模型| |
+|[02:09](https://www.bilibili.com/video/av116038708496598?t=129)|Excalidraw MCP ｜ 让 Claude 学会手绘图| |
+|[02:30](https://www.bilibili.com/video/av116038708496598?t=150)|ZeroBrew ｜ 把 Homebrew 提速 20 倍| |
+|[03:05](https://www.bilibili.com/video/av116038708496598?t=185)|rust-ui ｜ Rust UI 组件生态积累| |
+
 ## [视频链接](https://www.bilibili.com/video/av115993259018759)
 
 |时间轴|简介|链接|

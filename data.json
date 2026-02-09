@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116038708496598,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 1,
+          "seconds": 28
+        },
+        {
+          "minutes": 2,
+          "seconds": 9
+        },
+        {
+          "minutes": 2,
+          "seconds": 30
+        },
+        {
+          "minutes": 3,
+          "seconds": 5
+        }
+      ],
+      "introduces": [
+        "NanoClaw ｜ 轻量化 AI 助手",
+        "Shannon ｜ 全自动漏洞发现探索",
+        "Voxtral Transcribe 2 ｜ 语音识别新模型",
+        "Excalidraw MCP ｜ 让 Claude 学会手绘图",
+        "ZeroBrew ｜ 把 Homebrew 提速 20 倍",
+        "rust-ui ｜ Rust UI 组件生态积累"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 115993259018759,
     "hn_items": {
       "times": [
