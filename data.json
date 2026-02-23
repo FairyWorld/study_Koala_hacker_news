@@ -1,5 +1,50 @@
 [
   {
+    "aid": 116112175923512,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 44
+        },
+        {
+          "minutes": 0,
+          "seconds": 24
+        },
+        {
+          "minutes": 2,
+          "seconds": 2
+        },
+        {
+          "minutes": 2,
+          "seconds": 39
+        },
+        {
+          "minutes": 3,
+          "seconds": 19
+        },
+        {
+          "minutes": 3,
+          "seconds": 57
+        }
+      ],
+      "introduces": [
+        "Monty ｜ Rust版安全Python解释器",
+        "Entire ｜ 将 AI 会话纳入 git",
+        "sql-tap ｜ SQL 流量实时监控",
+        "bunqueue ｜ Bun原生任务队列",
+        "Vouch ｜ 开源信任管理",
+        "Tambo ｜ AI 组件框架",
+        "LiftKit ｜ 黄金比例UI框架"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116038708496598,
     "hn_items": {
       "times": [

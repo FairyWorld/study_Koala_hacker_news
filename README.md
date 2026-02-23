@@ -8,6 +8,18 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116112175923512)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116112175923512?t=9)|Monty ｜ Rust版安全Python解释器| |
+|[00:44](https://www.bilibili.com/video/av116112175923512?t=44)|Entire ｜ 将 AI 会话纳入 git| |
+|[00:24](https://www.bilibili.com/video/av116112175923512?t=24)|sql-tap ｜ SQL 流量实时监控| |
+|[02:02](https://www.bilibili.com/video/av116112175923512?t=122)|bunqueue ｜ Bun原生任务队列| |
+|[02:39](https://www.bilibili.com/video/av116112175923512?t=159)|Vouch ｜ 开源信任管理| |
+|[03:19](https://www.bilibili.com/video/av116112175923512?t=199)|Tambo ｜ AI 组件框架| |
+|[03:57](https://www.bilibili.com/video/av116112175923512?t=237)|LiftKit ｜ 黄金比例UI框架| |
+
 ## [视频链接](https://www.bilibili.com/video/av116038708496598)
 
 |时间轴|简介|链接|
