@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116151820485072,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 45
+        },
+        {
+          "minutes": 1,
+          "seconds": 25
+        },
+        {
+          "minutes": 2,
+          "seconds": 0
+        },
+        {
+          "minutes": 2,
+          "seconds": 43
+        },
+        {
+          "minutes": 3,
+          "seconds": 17
+        }
+      ],
+      "introduces": [
+        "Superset ｜ 并行 AI 编程",
+        "Lifo ｜ 浏览器即操作系统",
+        "Moonshine ｜ 边缘设备语音识别",
+        "Hugging Face Skills ｜ Hugging Face 技能库",
+        "Manim-web ｜ 浏览器数学动画",
+        "Diffnav ｜ 树形 Diff 阅读器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116112175923512,
     "hn_items": {
       "times": [

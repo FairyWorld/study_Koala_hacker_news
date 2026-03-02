@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116151820485072)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116151820485072?t=9)|Superset ｜ 并行 AI 编程| |
+|[00:45](https://www.bilibili.com/video/av116151820485072?t=45)|Lifo ｜ 浏览器即操作系统| |
+|[01:25](https://www.bilibili.com/video/av116151820485072?t=85)|Moonshine ｜ 边缘设备语音识别| |
+|[02:00](https://www.bilibili.com/video/av116151820485072?t=120)|Hugging Face Skills ｜ Hugging Face 技能库| |
+|[02:43](https://www.bilibili.com/video/av116151820485072?t=163)|Manim-web ｜ 浏览器数学动画| |
+|[03:17](https://www.bilibili.com/video/av116151820485072?t=197)|Diffnav ｜ 树形 Diff 阅读器| |
+
 ## [视频链接](https://www.bilibili.com/video/av116112175923512)
 
 |时间轴|简介|链接|
