@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116191599329893,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 55
+        },
+        {
+          "minutes": 1,
+          "seconds": 41
+        },
+        {
+          "minutes": 2,
+          "seconds": 25
+        },
+        {
+          "minutes": 3,
+          "seconds": 4
+        },
+        {
+          "minutes": 3,
+          "seconds": 41
+        }
+      ],
+      "introduces": [
+        "gws ｜ Google Workspace 统一命令行工具",
+        "Promptfoo ｜ LLM 的测试驱动开发",
+        "Charm v2 ｜ Go 终端库全面升级",
+        "Oxfmt Beta ｜ 30 倍速的 Rust 版 Prettier 来了",
+        "Dependency Cruiser ｜ 代码架构的守门员",
+        "Jido 2.0 ｜ Elixir 的 Agent 框架"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116151820485072,
     "hn_items": {
       "times": [

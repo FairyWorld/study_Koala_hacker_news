@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116191599329893)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116191599329893?t=9)|gws ｜ Google Workspace 统一命令行工具| |
+|[00:55](https://www.bilibili.com/video/av116191599329893?t=55)|Promptfoo ｜ LLM 的测试驱动开发| |
+|[01:41](https://www.bilibili.com/video/av116191599329893?t=101)|Charm v2 ｜ Go 终端库全面升级| |
+|[02:25](https://www.bilibili.com/video/av116191599329893?t=145)|Oxfmt Beta ｜ 30 倍速的 Rust 版 Prettier 来了| |
+|[03:04](https://www.bilibili.com/video/av116191599329893?t=184)|Dependency Cruiser ｜ 代码架构的守门员| |
+|[03:41](https://www.bilibili.com/video/av116191599329893?t=221)|Jido 2.0 ｜ Elixir 的 Agent 框架| |
+
 ## [视频链接](https://www.bilibili.com/video/av116151820485072)
 
 |时间轴|简介|链接|
