@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116270821344949,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 3
+        },
+        {
+          "minutes": 1,
+          "seconds": 48
+        },
+        {
+          "minutes": 2,
+          "seconds": 38
+        },
+        {
+          "minutes": 3,
+          "seconds": 31
+        },
+        {
+          "minutes": 4,
+          "seconds": 21
+        }
+      ],
+      "introduces": [
+        "Vite+ ｜ 统一前端工具链",
+        "Slock ｜ 人机协作通讯平台",
+        "element-source ｜ DOM元素源码定位工具",
+        "Agent Safehouse ｜ macOS AI 代理沙盒",
+        "Rendi ｜ FFmpeg 云端 API",
+        "Ki Editor ｜ 多光标结构编辑器"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116191599329893,
     "hn_items": {
       "times": [
