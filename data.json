@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116310365178665,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 11
+        },
+        {
+          "minutes": 2,
+          "seconds": 0
+        },
+        {
+          "minutes": 2,
+          "seconds": 24
+        },
+        {
+          "minutes": 3,
+          "seconds": 1
+        },
+        {
+          "minutes": 3,
+          "seconds": 43
+        }
+      ],
+      "introduces": [
+        "AutoResearch ｜ AI 自主研究框架",
+        "Hammerspoon ｜ macOS 自动化引擎",
+        "Claude HUD ｜ Claude Code 实时状态面板",
+        "Email.md ｜ Markdown 写邮件",
+        "TUI Studio ｜ 终端 UI 可视化编辑器",
+        "Portless ｜ 本地服务对外暴露方案"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116270821344949,
     "hn_items": {
       "times": [
