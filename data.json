@@ -1,5 +1,90 @@
 [
   {
+    "aid": 116390023464949,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 1,
+          "seconds": 8
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        },
+        {
+          "minutes": 3,
+          "seconds": 3
+        },
+        {
+          "minutes": 3,
+          "seconds": 51
+        },
+        {
+          "minutes": 4,
+          "seconds": 41
+        },
+        {
+          "minutes": 5,
+          "seconds": 28
+        }
+      ],
+      "introduces": [
+        "Claude Code 性能透明性之争",
+        "Multica ｜ Agent 团队协作平台",
+        "Hucre ｜ 零依赖电子表格引擎",
+        "PDFx ｜ React PDF 组件工具箱",
+        "AIMock ｜ AI 应用确定性测试框架",
+        "Mvidia ｜ 交互式 GPU 架构教学游戏",
+        "Astral 安全实践 ｜ 开源供应链安全深度指南"
+      ],
+      "links": []
+    }
+  },
+  {
+    "aid": 116350261395691,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 57
+        },
+        {
+          "minutes": 1,
+          "seconds": 29
+        },
+        {
+          "minutes": 2,
+          "seconds": 12
+        },
+        {
+          "minutes": 2,
+          "seconds": 45
+        },
+        {
+          "minutes": 3,
+          "seconds": 21
+        }
+      ],
+      "introduces": [
+        "EmDash ｜ Cloudflare 开源 CMS",
+        "Vibe Island ｜ macOS Agent 灵动岛",
+        "Gemma 4 ｜ Google 开源多模态模型",
+        "nono ｜ AI Agent 运行时沙箱",
+        "Semiotic ｜ React 流式数据可视化框架",
+        "Cult UI ｜ Shadcn 扩展组件库"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116310365178665,
     "hn_items": {
       "times": [

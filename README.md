@@ -8,6 +8,29 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116390023464949)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116390023464949?t=9)|Claude Code 性能透明性之争| |
+|[01:08](https://www.bilibili.com/video/av116390023464949?t=68)|Multica ｜ Agent 团队协作平台| |
+|[02:12](https://www.bilibili.com/video/av116390023464949?t=132)|Hucre ｜ 零依赖电子表格引擎| |
+|[03:03](https://www.bilibili.com/video/av116390023464949?t=183)|PDFx ｜ React PDF 组件工具箱| |
+|[03:51](https://www.bilibili.com/video/av116390023464949?t=231)|AIMock ｜ AI 应用确定性测试框架| |
+|[04:41](https://www.bilibili.com/video/av116390023464949?t=281)|Mvidia ｜ 交互式 GPU 架构教学游戏| |
+|[05:28](https://www.bilibili.com/video/av116390023464949?t=328)|Astral 安全实践 ｜ 开源供应链安全深度指南| |
+
+## [视频链接](https://www.bilibili.com/video/av116350261395691)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116350261395691?t=9)|EmDash ｜ Cloudflare 开源 CMS| |
+|[00:57](https://www.bilibili.com/video/av116350261395691?t=57)|Vibe Island ｜ macOS Agent 灵动岛| |
+|[01:29](https://www.bilibili.com/video/av116350261395691?t=89)|Gemma 4 ｜ Google 开源多模态模型| |
+|[02:12](https://www.bilibili.com/video/av116350261395691?t=132)|nono ｜ AI Agent 运行时沙箱| |
+|[02:45](https://www.bilibili.com/video/av116350261395691?t=165)|Semiotic ｜ React 流式数据可视化框架| |
+|[03:21](https://www.bilibili.com/video/av116350261395691?t=201)|Cult UI ｜ Shadcn 扩展组件库| |
+
 ## [视频链接](https://www.bilibili.com/video/av116310365178665)
 
 |时间轴|简介|链接|
