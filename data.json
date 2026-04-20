@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116431328903394,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 45
+        },
+        {
+          "minutes": 2,
+          "seconds": 35
+        },
+        {
+          "minutes": 3,
+          "seconds": 27
+        },
+        {
+          "minutes": 4,
+          "seconds": 1
+        }
+      ],
+      "introduces": [
+        "GitHub Stacked PRs ｜ 原生堆叠式 PR",
+        "OpenPencil ｜ 开源本地化设计编辑器",
+        "Happy DOM ｜ 无头浏览器环境",
+        "Open Agents ｜ Vercel 编程 Agent 参考实现",
+        "BrightBean Studio ｜ 开源自托管社媒管理",
+        "Fuse.js ｜ 轻量级模糊搜索库"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116390023464949,
     "hn_items": {
       "times": [

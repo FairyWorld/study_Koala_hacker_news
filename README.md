@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116431328903394)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116431328903394?t=9)|GitHub Stacked PRs ｜ 原生堆叠式 PR| |
+|[00:58](https://www.bilibili.com/video/av116431328903394?t=58)|OpenPencil ｜ 开源本地化设计编辑器| |
+|[01:45](https://www.bilibili.com/video/av116431328903394?t=105)|Happy DOM ｜ 无头浏览器环境| |
+|[02:35](https://www.bilibili.com/video/av116431328903394?t=155)|Open Agents ｜ Vercel 编程 Agent 参考实现| |
+|[03:27](https://www.bilibili.com/video/av116431328903394?t=207)|BrightBean Studio ｜ 开源自托管社媒管理| |
+|[04:01](https://www.bilibili.com/video/av116431328903394?t=241)|Fuse.js ｜ 轻量级模糊搜索库| |
+
 ## [视频链接](https://www.bilibili.com/video/av116390023464949)
 
 |时间轴|简介|链接|
