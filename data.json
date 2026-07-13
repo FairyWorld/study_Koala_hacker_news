@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116905553693232,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 58
+        },
+        {
+          "minutes": 1,
+          "seconds": 47
+        },
+        {
+          "minutes": 2,
+          "seconds": 37
+        },
+        {
+          "minutes": 3,
+          "seconds": 29
+        },
+        {
+          "minutes": 4,
+          "seconds": 10
+        }
+      ],
+      "introduces": [
+        "TypeScript 7.0 ｜ TS 高速编译器正式发布",
+        "ax ｜ AI 时代的 curl",
+        "Colibrì ｜ 笔记本跑 744B 大模型",
+        "Godogen ｜ AI 自动游戏生成器",
+        "Carbon ｜ 大规模多人游戏引擎",
+        "Hexana ｜ WASM 二进制分析工具"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116865909392922,
     "hn_items": {
       "times": [

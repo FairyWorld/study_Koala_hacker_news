@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116905553693232)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116905553693232?t=9)|TypeScript 7.0 ｜ TS 高速编译器正式发布| |
+|[00:58](https://www.bilibili.com/video/av116905553693232?t=58)|ax ｜ AI 时代的 curl| |
+|[01:47](https://www.bilibili.com/video/av116905553693232?t=107)|Colibrì ｜ 笔记本跑 744B 大模型| |
+|[02:37](https://www.bilibili.com/video/av116905553693232?t=157)|Godogen ｜ AI 自动游戏生成器| |
+|[03:29](https://www.bilibili.com/video/av116905553693232?t=209)|Carbon ｜ 大规模多人游戏引擎| |
+|[04:10](https://www.bilibili.com/video/av116905553693232?t=250)|Hexana ｜ WASM 二进制分析工具| |
+
 ## [视频链接](https://www.bilibili.com/video/av116865909392922)
 
 |时间轴|简介|链接|
