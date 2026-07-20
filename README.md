@@ -8,6 +8,17 @@ b站up主[Koala聊开源](https://space.bilibili.com/489667127)的《hacker news
 1. 添加黑白切换功能（右上角的控件）
 2. 搜索功能（快速定位到相关表格）
 
+## [视频链接](https://www.bilibili.com/video/av116944661383938)
+
+|时间轴|简介|链接|
+|:--:|:--:|:--:|
+|[00:09](https://www.bilibili.com/video/av116944661383938?t=9)|Kimi K3 ｜ 2.8 万亿参数开源旗舰| |
+|[00:59](https://www.bilibili.com/video/av116944661383938?t=59)|Codex Plugin ｜ 在 Claude Code 里调用 Codex| |
+|[01:40](https://www.bilibili.com/video/av116944661383938?t=100)|Bonsai 27B ｜ 手机上跑的 1-bit 大模型| |
+|[02:38](https://www.bilibili.com/video/av116944661383938?t=158)|dcg ｜ AI Agent 危险命令拦截器| |
+|[03:34](https://www.bilibili.com/video/av116944661383938?t=214)|Decoy Font ｜ 骗过 AI 的双重信息字体| |
+|[04:27](https://www.bilibili.com/video/av116944661383938?t=267)|Chatto ｜ 自托管团队聊天平台| |
+
 ## [视频链接](https://www.bilibili.com/video/av116905553693232)
 
 |时间轴|简介|链接|

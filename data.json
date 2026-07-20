@@ -1,5 +1,45 @@
 [
   {
+    "aid": 116944661383938,
+    "hn_items": {
+      "times": [
+        {
+          "minutes": 0,
+          "seconds": 9
+        },
+        {
+          "minutes": 0,
+          "seconds": 59
+        },
+        {
+          "minutes": 1,
+          "seconds": 40
+        },
+        {
+          "minutes": 2,
+          "seconds": 38
+        },
+        {
+          "minutes": 3,
+          "seconds": 34
+        },
+        {
+          "minutes": 4,
+          "seconds": 27
+        }
+      ],
+      "introduces": [
+        "Kimi K3 ｜ 2.8 万亿参数开源旗舰",
+        "Codex Plugin ｜ 在 Claude Code 里调用 Codex",
+        "Bonsai 27B ｜ 手机上跑的 1-bit 大模型",
+        "dcg ｜ AI Agent 危险命令拦截器",
+        "Decoy Font ｜ 骗过 AI 的双重信息字体",
+        "Chatto ｜ 自托管团队聊天平台"
+      ],
+      "links": []
+    }
+  },
+  {
     "aid": 116905553693232,
     "hn_items": {
       "times": [
